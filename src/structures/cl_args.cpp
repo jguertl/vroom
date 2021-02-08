@@ -14,7 +14,7 @@ All rights reserved (see LICENSE).
 namespace vroom {
 namespace io {
 
-const unsigned CLArgs::max_exploration_level = 5;
+const unsigned CLArgs::max_exploration_level = 500;
 
 // Default values.
 CLArgs::CLArgs()
